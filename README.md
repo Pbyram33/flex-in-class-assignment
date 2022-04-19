@@ -1,0 +1,1 @@
+# flex-in-class-assignment
